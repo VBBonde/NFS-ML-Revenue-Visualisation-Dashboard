@@ -1,0 +1,61 @@
+EventTitle,PotentialCustomer,Status,SalesPerson,ClientBudget,GrossBookingTotal,IntendedStartDate,ClientType,CreatedOn,EventType,NumberOfPeople,Property,SalesStage,MonthCreated
+Add-on to help with interview,DC Comics,Open,,35000,10555,8/25/2023 8:00,External,01/28/2023 11:08,Internal,10,Skyline Restaurant,,1
+Another lead bbq,Apple,Open,Mr NFS Helpdesk,100000,56000,8/24/2023 9:00,External,01/20/2023 12:30,Meeting,15,Skyline Restaurant,,1
+AZM - Event01,Amazon,Open,,3000,393.75,09/01/2023 09:00,External,01/09/2023 13:08,Corporate Events,5,Skyline Restaurant,,1
+Christmas Party 2024,Ince Agents,Open,Mr NFS Helpdesk,5000,46200,08/01/2023 08:00,External,01/26/2023 16:30,Working Lunch,5,Grand Focus Hotel,,1
+Add-on for reading article,IBM,Open,,8000,393.75,09/01/2023 09:00,External,01/09/2023 12:27,Hybrid Event,5,Grand Focus Hotel,,1
+Summer Party,IBM,Open,,8000,393.75,09/01/2023 09:00,External,02/09/2023 12:29,Hybrid Event,5,Grand Focus Hotel,,2
+New Year's Party,Microsoft,Open,,2500,393.75,09/01/2023 09:00,External,02/09/2023 12:47,Hybrid Event,5,Grand Focus Hotel,,2
+Christmas Day Party,Entourage LTD,Open,,7000,787.5,09/01/2023 09:00,External,02/04/2023 16:40,Corporate Events,5,Grand Focus Hotel,,2
+Fun day out with Add-ons,DC Comics,Open,,10000,8175,06/01/2024 08:00,External,2/28/2023 10:56,Corporate Events,10,Grand Focus Hotel,,2
+Lead from Dynamics 011,Copy Company Three,Open,,12000,5256.25,8/23/2023 8:00,External,2/28/2023 16:42,Trade Shows and Exhibitions,10,Grand Focus Hotel,,2
+Lead One for CompanyThree,Copy Company Three,Open,,1000,274.63,12/15/2023 5:30,External,03/07/2023 17:22,Corporate Events,5,Grand Focus Hotel,,3
+New Lead for Summer BBQ,IBM,Open,,60000,29400,08/02/2023 08:00,External,3/20/2023 12:09,Meeting,10,Grand Focus Hotel,,3
+New Book,Marvel,Open,,6500,393.75,09/01/2023 09:00,External,03/09/2023 15:53,Corporate Events,5,Grand Focus Hotel,,3
+New Lead Products 01,Copy Company Three,Open,,5500,597.8,09/01/2023 09:00,External,03/08/2023 12:20,Corporate Events,5,Skyline Restaurant,,3
+Paper Event 01,Dunder Mifflin,Open,Mr NFS Helpdesk,7500,20250,09/01/2023 08:00,External,03/02/2023 12:27,Corporate Events,7,Grand Focus Hotel,,3
+Paper Event December,Dunder Mifflin,Open,Mr NFS Helpdesk,8000,787.5,09/01/2023 09:00,External,04/09/2023 10:16,Hybrid Event,5,Grand Focus Hotel,,4
+Paper event Jan,Dunder Mifflin,Open,,8500,393.75,09/01/2023 09:00,External,04/09/2023 12:39,Corporate Events,5,Grand Focus Hotel,,4
+Summer BBQ,Microsoft,Open,Mr NFS Helpdesk,9000,10194,08/04/2023 08:00,External,04/11/2023 14:35,Corporate Events,15,Skyline Restaurant,,4
+Summer BBQ 2023 Q1,Entourage LTD,Open,,11000,13400,08/01/2023 08:00,External,4/28/2023 15:58,Community Events,10,Grand Focus Hotel,,4
+Summer DC Party 01,DC Comics,Open,Mr NFS Helpdesk,7500,39016,12/13/2023 3:30,External,4/28/2023 10:01,Internal,15,Skyline Restaurant,,4
+Formal Lunch,Rons Printing,Open,,1000,31.5,08/01/2023 08:00,External,05/11/2023 13:37,Working Lunch,15,Skyline Restaurant,,5
+Test large dataset,Entourage LTD,Open,,18000,6157.75,8/27/2023 8:00,External,05/01/2023 12:53,Corporate Events,4,Skyline Restaurant,,5
+The New Years Day Celebration,Marvel,Open,,16500,4382.85,8/30/2023 9:00,External,05/04/2023 16:14,Hybrid Event,5,Skyline Restaurant,,5
+Easter Sunday Party,Entourage LTD,Open,,14500,3476.95,8/20/2023 8:00,External,05/01/2023 13:12,Hybrid Event,7,Skyline Restaurant,,5
+NFS Meeting,NFS,Open,,8000,13400,,,05/01/2023 15:16,Corporate Events,15,NFS Headquarters,,5
+NFS Dinner,NFS,Open,,6157.75,100000,,,06/23/2023 18:54,Working Dinner,4,NFS Headquarters,,6
+NFS Party,NFS,Open,,9000,29400,,,06/27/2023 18:52,Corporate Events,20,NFS Headquarters,,6
+Ronald's Birthday,Rons Printing,,,7500,39016,,,06/25/2023 12:41,Community Events,3,Ronald Building,,6
+Informal Work Meet,Rons Printing,,,8000,393.75,,,06/22/2023 14:24,Hybrid Event,81,Ronald Building,,6
+Annual Celebration,Rons Printing,,,35000,10555,,,06/10/2023 19:11,Community Events,10,Ronald Building,,6
+Comic Con,DC Comics,Open,,35000,10555,8/25/2023 8:00,External,01/28/2023 11:08,Internal,10,Skyline Restaurant,,12
+Another long BBQ,Apple,Open,Mr NFS Helpdesk,100000,56000,8/24/2023 9:00,External,01/20/2023 12:30,Meeting,15,Skyline Restaurant,,12
+The Next Big Show,Amazon,Open,,3000,393.75,09/01/2023 09:00,External,01/09/2023 13:08,Corporate Events,5,Skyline Restaurant,,12
+Christmas Party 2026,Ince Agents,Open,Mr NFS Helpdesk,5000,46200,08/01/2023 08:00,External,01/26/2023 16:30,Working Lunch,5,Grand Focus Hotel,,12
+Add-on for blocking adds,Marvel,Open,,8000,393.75,09/01/2023 09:00,External,01/09/2023 12:27,Hybrid Event,5,Grand Focus Hotel,,12
+Autumn Party,NFS,Open,,8000,393.75,09/01/2023 09:00,External,02/09/2023 12:29,Hybrid Event,5,Grand Focus Hotel,,11
+Stand Down Party,Marvel,Open,,2500,393.75,09/01/2023 09:00,External,02/09/2023 12:47,Hybrid Event,5,Grand Focus Hotel,,11
+Boxing Day Sale,Entourage LTD,Open,,7000,787.5,09/01/2023 09:00,External,02/04/2023 16:40,Corporate Events,5,Grand Focus Hotel,,11
+Fun day out with colleagues,DC Comics,Open,,10000,8175,06/01/2024 08:00,External,2/28/2023 10:56,Corporate Events,10,Grand Focus Hotel,,11
+Lead from Dynamics 014,Marvel,Open,,12000,5256.25,8/23/2023 8:00,External,2/28/2023 16:42,Trade Shows and Exhibitions,10,Grand Focus Hotel,,11
+Lead one for CompanyFour,Copy Company Three,Open,,1000,274.63,12/15/2023 5:30,External,03/07/2023 17:22,Corporate Events,5,Grand Focus Hotel,,10
+New Lead for Winter BBQ,IBM,Open,,60000,29400,08/02/2023 08:00,External,3/20/2023 12:09,Meeting,10,Grand Focus Hotel,,10
+New Film,Marvel,Open,,6500,393.75,09/01/2023 09:00,External,03/09/2023 15:53,Corporate Events,5,Grand Focus Hotel,,10
+New Canned Products,Marvel,Open,,5500,597.8,09/01/2023 09:00,External,03/08/2023 12:20,Corporate Events,5,Skyline Restaurant,,10
+Metal Event,Dunder Mifflin,Open,Mr NFS Helpdesk,7500,20250,09/01/2023 08:00,External,03/02/2023 12:27,Corporate Events,7,Grand Focus Hotel,,10
+Metal Event December,Dunder Mifflin,Open,Mr NFS Helpdesk,8000,787.5,09/01/2023 09:00,External,04/09/2023 10:16,Hybrid Event,5,Grand Focus Hotel,,9
+Metal Event January,Dunder Mifflin,Open,,8500,393.75,09/01/2023 09:00,External,04/09/2023 12:39,Corporate Events,5,Grand Focus Hotel,,9
+Winter Picnic Concert,Microsoft,Open,Mr NFS Helpdesk,9000,10194,08/04/2023 08:00,External,04/11/2023 14:35,Corporate Events,15,Skyline Restaurant,,9
+Summer Fair,Entourage LTD,Open,,11000,13400,08/01/2023 08:00,External,4/28/2023 15:58,Community Events,10,Grand Focus Hotel,,9
+Summer Dance Show,DC Comics,Open,Mr NFS Helpdesk,7500,39016,12/13/2023 3:30,External,4/28/2023 10:01,Internal,15,Skyline Restaurant,,9
+Informal Lunch,Rons Printing,Open,,1000,31.5,08/01/2023 08:00,External,05/11/2023 13:37,Working Lunch,15,Skyline Restaurant,,8
+Test Medium Dataset,Entourage LTD,Open,,18000,6157.75,8/27/2023 8:00,External,05/01/2023 12:53,Corporate Events,4,Skyline Restaurant,,8
+The Wasted Rock Concert,Marvel,Open,,16500,4382.85,8/30/2023 9:00,External,05/04/2023 16:14,Hybrid Event,5,Skyline Restaurant,,8
+Musicians Meet,Entourage LTD,Open,,14500,3476.95,8/20/2023 8:00,External,05/01/2023 13:12,Hybrid Event,7,Skyline Restaurant,,8
+Restaurant Meet,NFS,Open,,8000,13400,,,05/01/2023 15:16,Corporate Events,15,NFS Headquarters,,8
+Yoga4All,NFS,Open,,6157.75,100000,,,06/23/2023 18:54,Working Dinner,4,NFS Headquarters,,7
+Birthday Parties,NFS,Open,,9000,29400,,,06/27/2023 18:52,Corporate Events,20,NFS Headquarters,,7
+Ronald's Wedding,Rons Printing,,,7500,39016,,,06/25/2023 12:41,Community Events,3,Ronald Building,,7
+Work Discussions,Rons Printing,,,8000,393.75,,,06/22/2023 14:24,Hybrid Event,81,Ronald Building,,7
+Monthly Catch Up,Rons Printing,,,35000,10555,,,06/10/2023 19:11,Community Events,10,Ronald Building,,7
